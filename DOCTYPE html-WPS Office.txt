@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Your Name - Portfolio</title>
@@ -95,9 +95,9 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src=".muthulakshmi m.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Meenakshi chinnadurai</h1>
-            <p> i am in student</p>
+            <img src="WhatsApp Image 2023-10-30 at 9.58.50 PM (1).jpeg" alt="Your Profile Picture" class="profile-picture">
+            <h1>MEENATCHI C</h1>
+        </div>>FINAL YEAR STUDENT</p>
         </div>
     </header>
 
@@ -105,8 +105,7 @@
         <ul>
             <li><a href="#about">About</a></li>
             <li><a href="#education">Education</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>            <li><a href="#projects">Projects</a></li>
             <li><a href="#resume">Resume</a></li>
         </ul>
     </nav>
@@ -114,25 +113,23 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p> hellow everyone this is Meenakshi chinnadurai  and i am  computer science student my ambition is become ah own enterpriner. </p>
+            <p>I'm a JAVA expert who is passionate about helping organizations protect their data and create secure online environments. I'm driven by the desire to put technology to work for the greater good and empower individuals and businesses to benefit from the digital revolution. With over 2 years of study and internship training experience in the field, I'm dedicated to staying up to date with the latest trends and innovations in the cyber security landscape. I'm also committed to helping others learn more about the importance of online security and how to stay safe online..</p>
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
-            <h2>b.sc computer science</h2>
-            <p>bharathiyar university</p>
+            <h2>Education</h2>
+            <p>BHARATHIYAR UNIVERSITY BSC COMPUTER SCIENCE </p>
         </div>
     </section>
 
     <section id="skills">
         <div class="section-content">
             <h2>Skills</h2>
-            <ul>
-                <li>java</li>
-                <li>pyothon</li>
-                <li>programming</li>
-            </li>c++
+                <li>CyberSecurity</li>
+                <li>Internet of Things</li>
+                <li>Cloud Computing</li>
             </ul>
         </div>
     </section>
@@ -141,8 +138,8 @@
         <div class="section-content">
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">project1</a></li>
-                <li><a href="#">project2</a></li>
+                <li><a href="#">AI Based alternator control system</a></li>
+                <li><a href="#">Cloud Security IBM</a></li>
                 <!-- Add more project links here -->
             </ul>
         </div>
@@ -153,14 +150,14 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href=https://drive.google.com/file/d/1bkBv_t10fngVUHCm1bLdEEvoHA3taozm/view?usp=drivesdk"
- target="_blank" class="download-button">Download CV</a>
+            <a href="https://drive.google.com/file/d/1Fjf9NlokC-6Cvk6CimvWKehDOOl8855V/view?usp=sharing" target="_blank" class="download-button">Download CV</a>
         </center>
-        </div>        
+        </div>
+        
     </section>
 
     <footer>
-        <p>&copy; 2023 meenakshi C</p>
+        <p>&copy; 2023 MEENATCHI C </p>
     </footer>
 
     <script>
